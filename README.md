@@ -1,6 +1,6 @@
 # Turborepo starter
 
-This is an official pnpm starter turborepo.
+This is a modified pnpm starter turborepo using nextjs with the experimental app directory.
 
 ## What's inside?
 
